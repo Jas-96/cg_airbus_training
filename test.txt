@@ -1,0 +1,11 @@
+ Volume in drive C is System
+ Volume Serial Number is E211-9E71
+
+ Directory of C:\Users\jkaur1\myfolder
+
+09/20/2019  11:49 AM    <DIR>          .
+09/20/2019  11:49 AM    <DIR>          ..
+09/20/2019  11:48 AM                 0 jas.txt
+09/20/2019  11:49 AM                 0 test.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  36,613,218,304 bytes free
